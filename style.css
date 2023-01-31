@@ -1,0 +1,26 @@
+/* body max width 800px and centred, light grey, sans serif*/
+
+p, h1 {
+    text-align: center;
+}
+
+body {
+    max-width: 800px;
+    background-color: #f0f0f0;
+    margin: 2em auto;
+    font-family: sans-serif;
+}
+
+table {
+    margin: 2em auto;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+
+
+th, td {
+    border: 1px solid grey;
+    padding: 8px;
+    text-align: left;
+}
